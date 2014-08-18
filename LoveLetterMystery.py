@@ -1,8 +1,8 @@
-test_count = int(input())
+test_count = input()
 while test_count:
     count = 0
     i = 0
-    s = input()
+    s = raw_input()
     cycle = int(len(s)/2)
     while cycle:
         count += abs(ord(s[len(s) - 1 - i]) - ord(s[i]))
