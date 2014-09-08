@@ -8,3 +8,4 @@ Test bracket
 test
 - [test](http://www.google.com)
   - test 2
+ -  test3
