@@ -6,4 +6,4 @@ Test bracket
 ---
     this is a test
 
-test(http://www.google.com)
+[test](http://www.google.com)
